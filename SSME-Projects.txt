@@ -1,0 +1,17 @@
+SSME-Project-Portfolio/
+│
+├── Medicals-DB-Analysis/
+│   ├── README.md
+│   ├── medicals.sql
+│   └── analysis_notes.md
+│
+├── Students-Performance/
+│   ├── students_performance.sql
+│   └── dashboard_design.pbix
+│
+├── Appointment-Tracking/
+│   ├── appointment_data.sql
+│   └── appointment_model.pbix
+│
+└── README.md
+mkd
